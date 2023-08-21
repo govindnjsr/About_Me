@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on Accolite.<br>i'm currently learninig more about Full Stack developement.<br>I'm looking for Job Opportunity.<br>Ask me about React/Javascript or any tech-realted stuff.<br>How to reach me : Linkedin - Gobind Panchal<br>Pronouns: He/His<br>Fun fact : I spend almost 12 hours to play with tech stuff.
+i'm currently learninig more about Full Stack developement.<br>I'm looking for Job Opportunity.<br>Ask me about React/Javascript or any tech-realted stuff.<br>How to reach me : Linkedin - Gobind Panchal<br>Pronouns: He/His<br>Fun fact : I spend almost 12 hours to play with tech stuff.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ i'm currently working on Accolite.<br>i'm currently learninig more about Full St
 ![](https://github-readme-stats.vercel.app/api?username=govindnjsr&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=govindnjsr&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=govindnjsr&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
